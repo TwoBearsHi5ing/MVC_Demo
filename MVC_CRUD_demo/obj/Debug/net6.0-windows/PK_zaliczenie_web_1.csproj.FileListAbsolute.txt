@@ -1,0 +1,574 @@
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.csproj.AssemblyReference.cache
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.GeneratedMSBuildEditorConfig.editorconfig
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.AssemblyInfoInputs.cache
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.AssemblyInfo.cs
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.csproj.CoreCompileInputs.cache
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.MvcApplicationPartsAssemblyInfo.cache
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\appsettings.json
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\libman.json
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\PK_zaliczenie_web_1.exe
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\PK_zaliczenie_web_1.deps.json
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\PK_zaliczenie_web_1.runtimeconfig.json
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\PK_zaliczenie_web_1.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\PK_zaliczenie_web_1.pdb
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Azure.Core.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Azure.Identity.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Humanizer.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.CodeDom.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Text.Json.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.csproj.CopyComplete
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\refint\PK_zaliczenie_web_1.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.pdb
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.genruntimeconfig.cache
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\ref\PK_zaliczenie_web_1.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\PK_zaliczenie_web_1.staticwebassets.runtime.json
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.RazorAssemblyInfo.cache
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.RazorAssemblyInfo.cs
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\staticwebassets.build.json
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\staticwebassets.development.json
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\scopedcss\bundle\PK_zaliczenie_web_1.styles.css
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\MessagePack.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\MessagePack.Annotations.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Build.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Build.Framework.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Features.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Features.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Razor.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Scripting.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.DiaSymReader.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.DotNet.Scaffolding.Shared.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.NET.StringTools.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Debugger.Contracts.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\dotnet-aspnet-codegenerator-design.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.Common.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.Configuration.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.DependencyResolver.Core.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.LibraryModel.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.Packaging.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.ProjectModel.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.Protocol.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.Versioning.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Composition.AttributedModel.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Composition.Convention.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Composition.Hosting.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Composition.Runtime.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Composition.TypedParts.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+I:\Studia\Programowanie Komponentowe\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.MvcApplicationPartsAssemblyInfo.cs
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.csproj.AssemblyReference.cache
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.GeneratedMSBuildEditorConfig.editorconfig
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.AssemblyInfoInputs.cache
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.AssemblyInfo.cs
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.csproj.CoreCompileInputs.cache
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.MvcApplicationPartsAssemblyInfo.cs
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.MvcApplicationPartsAssemblyInfo.cache
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.RazorAssemblyInfo.cache
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.RazorAssemblyInfo.cs
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\refint\PK_zaliczenie_web_1.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.pdb
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\appsettings.json
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\libman.json
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\PK_zaliczenie_web_1.staticwebassets.runtime.json
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\PK_zaliczenie_web_1.exe
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\PK_zaliczenie_web_1.deps.json
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\PK_zaliczenie_web_1.runtimeconfig.json
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\PK_zaliczenie_web_1.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\PK_zaliczenie_web_1.pdb
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Azure.Core.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Azure.Identity.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Humanizer.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\MessagePack.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\MessagePack.Annotations.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Build.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Build.Framework.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Features.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Features.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Razor.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Scripting.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.DiaSymReader.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.DotNet.Scaffolding.Shared.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.NET.StringTools.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Debugger.Contracts.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\dotnet-aspnet-codegenerator-design.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.Common.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.Configuration.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.DependencyResolver.Core.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.LibraryModel.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.Packaging.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.ProjectModel.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.Protocol.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\NuGet.Versioning.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.CodeDom.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Composition.AttributedModel.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Composition.Convention.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Composition.Hosting.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Composition.Runtime.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Composition.TypedParts.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Text.Json.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\staticwebassets.build.json
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\staticwebassets.development.json
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\scopedcss\bundle\PK_zaliczenie_web_1.styles.css
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.csproj.CopyComplete
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\PK_zaliczenie_web_1.genruntimeconfig.cache
+X:\PK_zaliczenie_web_1\PK_zaliczenie_web_1\obj\Debug\net6.0-windows\ref\PK_zaliczenie_web_1.dll
